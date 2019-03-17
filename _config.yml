@@ -46,7 +46,7 @@ location:           KY
 email:              dustin@workpending.com
 
 # Gems
-gems:
+plugins:
   - jekyll-mentions
   - jekyll-sitemap
   - jekyll-feed
